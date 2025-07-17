@@ -14,3 +14,4 @@ There are four people besides a Manager in Eagle team, AK, MH, SD, VP, and MB. W
 ## Thu 7/17/2025
 * MH arrived at 8:32 AM PDT
 * AK arrived at 10:03 AM PDT
+* MB arrived at 10:48 AM PDT
